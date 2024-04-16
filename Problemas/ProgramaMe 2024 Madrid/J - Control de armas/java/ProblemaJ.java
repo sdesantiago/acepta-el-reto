@@ -17,8 +17,6 @@ public class ProblemaJ {
 				break;
 			}
 
-			sc.nextLine();
-
 			for (int i = 0; i < casos; i++) {
 				persona = sc.next();
 				armas = sc.nextInt();
