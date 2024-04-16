@@ -20,3 +20,4 @@ Puedes consultar mi perfil de *¡Acepta el reto!* haciendo click [aquí](https:/
 | 5 | [Intervalo de problemas: [500-599]](Problemas/500-599/) | 0 |
 | 6 | [Intervalo de problemas: [600-699]](Problemas/600-699/) | 0 |
 | 7 | [Intervalo de problemas: [700-799]](Problemas/700-799/) | 0 |
+| 8 | [ProgramaMe Regional Madrid 2024](Problemas/ProgramaMe%202024%20Madrid/) | 1 |
